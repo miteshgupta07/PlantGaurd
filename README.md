@@ -3,6 +3,9 @@
 ## Overview
 Plant Disease Detection is a deep learning project aimed at helping farmers identify and manage crop diseases more effectively. The project utilizes convolutional neural networks (CNNs) to classify images of plant leaves into different disease categories, providing farmers with early detection and intervention strategies.
 
+## Methodology
+The project employs DenseNet, a popular deep learning architecture known for its dense connectivity pattern, which enhances feature propagation and encourages feature reuse. By leveraging pre-trained DenseNet models and fine-tuning them on our dataset, we achieve robust disease classification performance.
+
 ## Features
 - Classification of plant diseases including Apple Scab, Black Rot, Cedar Apple Rust, Powdery Mildew, Common Rust, Gray Leaf Spot, and more.
 - User-friendly web application interface for uploading images and receiving real-time disease predictions.
