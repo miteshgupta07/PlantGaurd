@@ -1,4 +1,4 @@
-# Plant Disease Detection using Deep Learning 🌱
+# PlantGaurd: A Plant Disease Detection System 🌱
 
 ## Overview
 Plant Disease Detection is a deep learning project aimed at helping farmers identify and manage crop diseases more effectively. The project utilizes convolutional neural networks (CNNs) to classify images of plant leaves into different disease categories, providing farmers with early detection and intervention strategies.
