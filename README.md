@@ -2,6 +2,7 @@
 
 ## Overview
 Plant Disease Detection is a deep learning project aimed at helping farmers identify and manage crop diseases more effectively. The project utilizes convolutional neural networks (CNNs) to classify images of plant leaves into different disease categories, providing farmers with early detection and intervention strategies.
+
 **Deployed Version:🌲** You can access the live version of the dashboard on the Streamlit platform [here](https://plant-guard.streamlit.app/).
 
 ## Methodology
